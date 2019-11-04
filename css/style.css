@@ -9,7 +9,7 @@ body {
     padding-top: 20px;
     width: 100%;
     height: 540px;
-    background-image: url(/img/logo/homework-08_Desktop_01.jpg);
+    background-image: url(../img/logo/homework-08_Desktop_01.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -127,19 +127,19 @@ body {
 }
 .tv::after {
     background-color: #ff4e50;
-    background-image: url(/img/icon/1.png);
+    background-image: url(../img/icon/1.png);
 }
 .lab::after{
     background-color: #ffa507;
-    background-image: url(/img/icon/2.png);
+    background-image: url(../img/icon/2.png);
 }
 .tea::after {
     background-color: #1cd7ad;
-    background-image: url(/img/icon/3.png);
+    background-image: url(../img/icon/3.png);
 }
 .plane::after {
     background-color: #4e73db;
-    background-image: url(/img/icon/4.png);
+    background-image: url(../img/icon/4.png);
 }
 
 @media (min-width: 768px) {
